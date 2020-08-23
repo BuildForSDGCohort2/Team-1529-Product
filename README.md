@@ -2,7 +2,7 @@
 
 
 Name of the App: Team-1529-Product
-Submitted by: Team-1629
+Submitted by: Team-1529
 User Stories: 
 
 
